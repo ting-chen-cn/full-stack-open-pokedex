@@ -52,7 +52,7 @@
     "cypress": "^6.4.0",
     "eslint-plugin-cypress": "^2.11.2",
     "express": "^4.17.1",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0"
   }
